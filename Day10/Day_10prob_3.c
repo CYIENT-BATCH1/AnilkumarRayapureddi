@@ -1,4 +1,4 @@
- Write a program to Implement ”Selection Sort” using Recursion for given elements (Number elements will vary, so make it as configurable item)
+/* Write a program to Implement ”Selection Sort” using Recursion for given elements (Number elements will vary, so make it as configurable item)
 How Selection sort works is explained below.
 
 Algorithm:
@@ -6,7 +6,7 @@ Algorithm:
 2.In main function given an array as user input
 3.In sorting compare every element to other element so using for loops
 4.After comparing store a value in any varible and swap 
-5.print the values.
+5.print the values.*/
 
 #include<stdio.h>
 void sortelement(int a[], int n)//in function declare a variables
