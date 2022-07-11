@@ -1,4 +1,4 @@
-7.Find the number of leap years in the interval 1990-2022.
+//7.Find the number of leap years in the interval 1990-2022.
 #include <stdio.h>
 
 int main()
