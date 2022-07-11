@@ -1,4 +1,4 @@
-Write a function to store "G_Str_SteeringAngle_sint" to "G_Msg_SteeringInformation_Byte" as shown below.
+/*Write a function to store "G_Str_SteeringAngle_sint" to "G_Msg_SteeringInformation_Byte" as shown below.
 signed int G_Str_SteeringAngle_sint = -60;
 unsigned char G_Msg_SteeringInformation_Byte[3u];"
 
