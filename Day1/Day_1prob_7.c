@@ -1,5 +1,5 @@
- 7.Find whether a given 10-digit number is palindrome or not. 
- (HINT: Any number is said to be a palindrome if the original number and the reverse of the original number are the same.)
+// 7.Find whether a given 10-digit number is palindrome or not. 
+ //(HINT: Any number is said to be a palindrome if the original number and the reverse of the original number are the same.)
 
      
 
