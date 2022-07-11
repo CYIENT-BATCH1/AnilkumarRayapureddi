@@ -12,3 +12,4 @@ Algorithm:
    printf("enter the value");
    scanf("%d",&n);//user input}
    (n%==0||n%==1) ? printf("spcial"):printf("nothing");//using ternary operator print the values
+   }
