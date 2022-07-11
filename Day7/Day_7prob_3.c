@@ -1,12 +1,12 @@
 
-3.Write program to clear(0) bits CIS, CM2, CM1, CM0 in register “CMCON” if bits CHS3, CHS2, CHS1, CHS0 bits are set to 0x07 in register “ADCON0”
+/*3.Write program to clear(0) bits CIS, CM2, CM1, CM0 in register “CMCON” if bits CHS3, CHS2, CHS1, CHS0 bits are set to 0x07 in register “ADCON0”
 Algorithm 
 
 1.Declare a two varibales.
 2.In printf statement enter the value 
 3.scan the values
 4.using control statements 0x07 is equal to the value combine the value with bit wise operator AND(& )
-5.statement false print nothing.
+5.statement false print nothing.*/
 
 #include <stdio.h>
 
