@@ -1,4 +1,4 @@
-1.Convert 0xFF to binary value
+//1.Convert 0xFF to binary value
 #include <stdio.h>
 
 int main()
